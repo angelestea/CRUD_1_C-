@@ -1,4 +1,4 @@
-# CRUD_1_C++
+# CRUD_C++
 
-#CRUD in C++
+#CRU in C++
 #Enjoy  🚀 
